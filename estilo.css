@@ -1,0 +1,12 @@
+#paisagem{ 
+    background: url(img/Paisagem-1.jpg);
+    border: 3px solid#000;
+}
+
+p{
+    text-align: right;
+}
+
+p:hover{
+background-color:rgb(223, 217, 217) ;    
+}
